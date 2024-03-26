@@ -1,0 +1,14 @@
+C:\Users\BFI\source\repos\topic5\topic5\bin\Debug\net8.0\topic5.exe
+C:\Users\BFI\source\repos\topic5\topic5\bin\Debug\net8.0\topic5.deps.json
+C:\Users\BFI\source\repos\topic5\topic5\bin\Debug\net8.0\topic5.runtimeconfig.json
+C:\Users\BFI\source\repos\topic5\topic5\bin\Debug\net8.0\topic5.dll
+C:\Users\BFI\source\repos\topic5\topic5\bin\Debug\net8.0\topic5.pdb
+C:\Users\BFI\source\repos\topic5\topic5\obj\Debug\net8.0\topic5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BFI\source\repos\topic5\topic5\obj\Debug\net8.0\topic5.AssemblyInfoInputs.cache
+C:\Users\BFI\source\repos\topic5\topic5\obj\Debug\net8.0\topic5.AssemblyInfo.cs
+C:\Users\BFI\source\repos\topic5\topic5\obj\Debug\net8.0\topic5.csproj.CoreCompileInputs.cache
+C:\Users\BFI\source\repos\topic5\topic5\obj\Debug\net8.0\topic5.dll
+C:\Users\BFI\source\repos\topic5\topic5\obj\Debug\net8.0\refint\topic5.dll
+C:\Users\BFI\source\repos\topic5\topic5\obj\Debug\net8.0\topic5.pdb
+C:\Users\BFI\source\repos\topic5\topic5\obj\Debug\net8.0\topic5.genruntimeconfig.cache
+C:\Users\BFI\source\repos\topic5\topic5\obj\Debug\net8.0\ref\topic5.dll
